@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.news-article:nth-child(3) {
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+
+
